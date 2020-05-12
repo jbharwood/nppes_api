@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'nppes_api/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "nppes_api"
+  spec.name          = "nppes_api_v3"
   spec.version       = NPPESApi::VERSION
   spec.authors       = ["Aubrey Holland"]
   spec.email         = ["aubrey@adhocteam.us"]
